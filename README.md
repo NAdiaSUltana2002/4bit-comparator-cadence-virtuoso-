@@ -65,12 +65,12 @@ Each block includes:
 ---
 
 ## Verification & Validation Flow
-✔ **Schematic-level transient simulation**  
-✔ **DRC** – Zero rule violations  
-✔ **LVS** – Layout matches schematic netlist  
-✔ **RCX** – Parasitic extraction using Assura  
-✔ **Average Extracted View generation**  
-✔ **Post-layout simulation with parasitics**
+**Schematic-level transient simulation**  
+**DRC** – Zero rule violations  
+**LVS** – Layout matches schematic netlist  
+**RCX** – Parasitic extraction using Assura  
+**Average Extracted View generation**  
+**Post-layout simulation with parasitics**
 
 This ensures the design is functionally correct and physically reliable.
 
